@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift/master/shiftcodes.json",
       "generated": {
-        "human": "2024-11-08 16:24:23.203844+00:00"
+        "human": "2024-11-15 10:24:22.858437+00:00"
       },
       "newcodecount": 5
     },
     "codes": [
+      {
+        "code": "96R3T-KHZC3-TBJJT-J3JJT-99BZF",
+        "type": "shift",
+        "game": "Borderlands: Game of the Year Edition",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-11-15 10:24:15.991965+00:00",
+        "expires": "Nov 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
       {
         "code": "9XXT3-RXCTJ-3BTTB-3BJTB-TWWTT",
         "type": "shift",
@@ -19,7 +30,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-11-08 16:24:15.939877+00:00",
         "expires": "Nov 14",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
       },
       {
@@ -162,17 +173,6 @@
         "reward": "3 Golden Keys",
         "archived": "2024-10-20 05:49:41.256030+00:00",
         "expires": "Sept 5",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
-      },
-      {
-        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
-        "type": "shift",
-        "game": "Borderlands: Game of the Year Edition",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:41.256030+00:00",
-        "expires": "Aug 29",
         "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
       },
@@ -474,6 +474,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
       },
       {
+        "code": "96R3T-KHZC3-TBJJT-J3JJT-99BZF",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-11-15 10:24:17.334829+00:00",
+        "expires": "Nov 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
+      },
+      {
         "code": "9XXT3-RXCTJ-3BTTB-3BJTB-TWWTT",
         "type": "shift",
         "game": "Borderlands 2",
@@ -481,7 +492,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-11-08 16:24:17.289964+00:00",
         "expires": "Nov 14",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
@@ -628,17 +639,6 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
-        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
-        "type": "shift",
-        "game": "Borderlands 2",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:42.597817+00:00",
-        "expires": "Aug 29",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
-      },
-      {
         "code": "WS5JB-K9KHH-WRC6S-FJ3JT-ZZZZK",
         "type": "shift",
         "game": "Borderlands 2",
@@ -672,28 +672,6 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
-        "code": "9F6JT-KXXTJ-BJBB3-JTJT3-TWHFZ",
-        "type": "shift",
-        "game": "Borderlands 2",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:42.597817+00:00",
-        "expires": "Aug 22",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
-      },
-      {
-        "code": "HRX3T-65XTJ-TB3TT-TBTBJ-SX3C3",
-        "type": "shift",
-        "game": "Borderlands 2",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:42.597817+00:00",
-        "expires": "Aug 15",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
-      },
-      {
         "code": "59CJ3-CHTR6-JHKSK-SJ33B-WXRTX",
         "type": "shift",
         "game": "Borderlands 2",
@@ -702,28 +680,6 @@
         "archived": "2024-10-20 05:49:42.597817+00:00",
         "expires": "Unknown",
         "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
-      },
-      {
-        "code": "ZX6TJ-S3633-BBBJB-BBTJJ-WXZSB",
-        "type": "shift",
-        "game": "Borderlands 2",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:42.597817+00:00",
-        "expires": "Aug 8",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
-      },
-      {
-        "code": "HRFBT-JBRBT-J33BT-JBBJ3-FBSJK",
-        "type": "shift",
-        "game": "Borderlands 2",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:42.597817+00:00",
-        "expires": "Aug 1",
-        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
@@ -2168,6 +2124,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "96R3T-KHZC3-TBJJT-J3JJT-99BZF",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-11-15 10:24:18.853151+00:00",
+        "expires": "Nov 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "9XXT3-RXCTJ-3BTTB-3BJTB-TWWTT",
         "type": "shift",
         "game": "Borderlands 3",
@@ -2175,7 +2142,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-11-08 16:24:18.805836+00:00",
         "expires": "Nov 14",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
@@ -2329,17 +2296,6 @@
         "reward": "3 Golden Keys",
         "archived": "2024-10-20 05:49:44.231849+00:00",
         "expires": "Sept 5",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
-      },
-      {
-        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
-        "type": "shift",
-        "game": "Borderlands 3",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:44.231849+00:00",
-        "expires": "Aug 29",
         "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
@@ -2773,6 +2729,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
       },
       {
+        "code": "96R3T-KHZC3-TBJJT-J3JJT-99BZF",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2024-11-15 10:24:20.285267+00:00",
+        "expires": "Nov 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
+      },
+      {
         "code": "9XXT3-RXCTJ-3BTTB-3BJTB-TWWTT",
         "type": "shift",
         "game": "Borderlands The Pre-Sequel",
@@ -2780,7 +2747,7 @@
         "reward": "3 Golden Keys",
         "archived": "2024-11-08 16:24:20.498610+00:00",
         "expires": "Nov 14",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
@@ -2927,17 +2894,6 @@
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
-        "code": "Z6XJT-X9F3B-BJJBT-TJ3BB-X6TR5",
-        "type": "shift",
-        "game": "Borderlands The Pre-Sequel",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:45.663283+00:00",
-        "expires": "Aug 29",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
-      },
-      {
         "code": "CSWTB-TZCZH-WFC6Z-633TT-SJ6JS",
         "type": "shift",
         "game": "Borderlands The Pre-Sequel",
@@ -2957,28 +2913,6 @@
         "archived": "2024-10-20 05:49:45.663283+00:00",
         "expires": "unknown",
         "expired": false,
-        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
-      },
-      {
-        "code": "9F6JT-KXXTJ-BJBB3-JTJT3-TWHFZ",
-        "type": "shift",
-        "game": "Borderlands The Pre-Sequel",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:45.663283+00:00",
-        "expires": "Aug 22",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
-      },
-      {
-        "code": "HRX3T-65XTJ-TB3TT-TBTBJ-SX3C3",
-        "type": "shift",
-        "game": "Borderlands The Pre-Sequel",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2024-10-20 05:49:45.663283+00:00",
-        "expires": "Aug 15",
-        "expired": true,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
@@ -4522,6 +4456,17 @@
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
+        "code": "96R3T-KHZC3-TBJJT-J3JJT-99BZF",
+        "type": "shift",
+        "game": "Tiny Tina's Wonderlands",
+        "platform": "universal",
+        "reward": "3 Skeleton Keys",
+        "archived": "2024-11-15 10:24:21.886312+00:00",
+        "expires": "Nov 21",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
+      },
+      {
         "code": "9XXT3-RXCTJ-3BTTB-3BJTB-TWWTT",
         "type": "shift",
         "game": "Tiny Tina's Wonderlands",
@@ -4529,7 +4474,7 @@
         "reward": "3 Skeleton Keys",
         "archived": "2024-11-08 16:24:22.638786+00:00",
         "expires": "Nov 14",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
