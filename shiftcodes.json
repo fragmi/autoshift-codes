@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/ugoogalizer/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-04-01 01:45:28.824360+00:00"
+        "human": "2026-04-03 08:34:27.301371+00:00"
       },
-      "newcodecount": 532
+      "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "3SFJB-SK6ZJ-KRTT5-B3BT3-3ST9W",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-04-03 08:34:18.318359+00:00",
+        "expires": "Apr 7, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "3ZR3T-6CSKW-WFTJC-JB33B-Z55ZT",
         "type": "shift",
@@ -56,17 +67,6 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
-        "code": "3ZRJ3-KWRS3-C63JW-3JBBB-Z6S6X",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2026-04-01 01:45:18.973619+00:00",
-        "expires": "Mar 24, 2026",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
         "code": "J963B-S66WK-56J3K-JJT3T-BF9T5",
         "type": "shift",
         "game": "Borderlands 4",
@@ -74,17 +74,6 @@
         "reward": "Vault Hunter SkinLuck of the Kairish",
         "archived": "2026-04-01 01:45:18.973619+00:00",
         "expires": "Dec 31, 2030",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "BZ63J-TKF9T-WR3BK-3BBJJ-KWFWR",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2026-04-01 01:45:18.973619+00:00",
-        "expires": "Mar 17, 2026",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
